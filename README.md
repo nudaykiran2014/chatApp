@@ -1,1 +1,1 @@
-simple chat app using basic node js concepts 
+real time chat application using socket.io module, node js and react js 
